@@ -4,7 +4,7 @@ const { MessageEmbed } = require('discord.js');
 exports.run = async (client, message, args) => {
 
     const prefix = "!" // Burayı istediğiniz prefixle değiştirebilirsiniz
-    const tarih = await Doviz.getData()
+    const tarih = await Doviz.getData() // Buraları düzelten "lèãxér#0707" hata anında bana ulaşın!
 
     if (!args[0]) {
         let embed = new MessageEmbed();
