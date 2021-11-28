@@ -3,6 +3,7 @@ Selamlar, bugün "https://codare.fun/kod?id=6LBkGPJedE" bu adresteki kodu düzen
 
 Kodda bir sorun çıkarsa lütfen bana ulaşmaktan çekinmeyin!
 Kod discord.js v12 üzerine yapılmıştır, ve "TCMB-DOVİZ" modülü kullanılmıştır.
+Kod üzernide ciddi değişiklikler yapmadım.
 
 Bundan önce kod bu şekildeydi;
 https://prnt.sc/20xuakp
