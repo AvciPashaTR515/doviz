@@ -1,5 +1,5 @@
 # Okuyunuz!
-Selamlar, bugün ![CodAre](https://codare.fun/kod?id=6LBkGPJedE) bu adresteki kodu düzenleyip sizle paylaşmak istedim!
+Selamlar, bugün "https://codare.fun/kod?id=6LBkGPJedE" bu adresteki kodu düzenleyip sizle paylaşmak istedim!
 
 Kodda bir sorun çıkarsa lütfen bana ulaşmaktan çekinmeyin!
 Kod discord.js v12 üzerine yapılmıştır, ve "TCMB-DOVİZ" modülü kullanılmıştır.
