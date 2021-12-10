@@ -10,5 +10,5 @@ https://prnt.sc/20xuakp
 Şimdi ise;
 https://prnt.sc/20xuau6
 
-# ID & TAG
+me discord ıd and tag
 486936078280818728 & lèãxér#0707
